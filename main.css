@@ -54,6 +54,22 @@ body {
 .plan__feature {
     margin: 8px 0;    
 }
+
+.button {
+    background: #0e4f1f;
+    color: aliceblue;
+    border-radius: 10px;
+    font: inherit;
+    border: 1px solid gray;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button:hover, .button:active {
+    background: white;
+    color: #0e4f1f;
+}
 .section-title {
     color: #2ddf5c;
     text-align: center;
