@@ -14,8 +14,18 @@ body {
     padding: 10px;   
 }
 
+.plan {
+    background: #2ddf5c;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    display: inline-block;
+    width: 30%;
+}
+
 .section-title {
     color: #2ddf5c;
+    text-align: center;
 }
 
 #product-overview h1 {
