@@ -24,9 +24,17 @@ body {
 }
 
 .plan--highlighted {
-    background: #d9e714;
-    color: #2e0311;
+    background: #c5d307;
+    color: #6b2c41;
     box-shadow: 5px 5px 5px rgba(59, 52, 52, 0.733);
+}
+
+.plan--highlighted .plan__price {
+    color: #bd5376;
+}
+
+.plan--highlighted .plan__title {
+    color: white;
 }
 
 .plan__annotation {
