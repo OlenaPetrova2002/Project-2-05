@@ -17,10 +17,16 @@ body {
 .plan {
     background: #2ddf5c;
     text-align: center;
-    padding: 20px;
-    margin: 10px;
+    padding: 12px;
+    margin: 6px;
     display: inline-block;
     width: 30%;
+}
+
+.plan--highlighted {
+    background: #d9e714;
+    color: #2e0311;
+    box-shadow: 5px 5px 5px rgba(59, 52, 52, 0.733);
 }
 
 .section-title {
