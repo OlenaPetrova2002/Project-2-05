@@ -12,7 +12,7 @@ main {
 .package:hover,
 .package:active {
     box-shadow: 2px 2px 4px rgba(58, 29, 6, 0.5);
-    border-color: brown;
+    border-color: brown/* !important*/;
 }
 
 .package a {
@@ -47,6 +47,13 @@ main {
     float: right;
     border-left: 4px solid green;
     border-right: none;
+    text-align: right;
+}
+
+#free:hover,
+#free:active {
+    box-shadow: 2px 2px 4px rgba(58, 29, 6, 0.5);
+    border-color: brown;
 }
 
 #premium {
