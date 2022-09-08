@@ -6,6 +6,12 @@
     padding: 10px;   
 }
 
+.plan_list {
+    width: 85%;
+    margin: auto;
+    text-align: center;
+}
+
 .plan {
     background: #2ddf5c;
     text-align: center;
