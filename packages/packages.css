@@ -34,8 +34,12 @@ main {
 .package__badge {
     position: absolute;
     top: 0;
-    left: 380px;
-    margin: 60px;
+    right: 0px;
+    margin: 40px;
+    font-size: 12px;
+    color: azure;
+    background: red;
+    padding: 10px;
 }
 .package__subtitle {
     color: rgb(100, 98, 98);
