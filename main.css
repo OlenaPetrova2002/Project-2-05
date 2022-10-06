@@ -11,7 +11,7 @@
     height: 528px;
     padding: 20px;  
     margin-top: 40px;
-    border: 7px dashed brown;
+    border: 7px dashed rgb(150, 46, 46);
     position: relative; 
 }
 
@@ -45,7 +45,7 @@
 }
 
 .plan__annotation {
-    background: white;
+    background: rgb(248, 245, 245);
     color: #36884c;
     padding: 6px;
     border-radius: 10px;
