@@ -7,7 +7,7 @@
     background-position: left 10% bottom 20%;
     background-origin: border-box;
     background-clip: border-box;*/
-    background-image: linear-gradient(30deg, rgb(230, 44, 15) 0%,rgb(230, 44, 15) 50%, #21e60f 50%, #21e60f);
+    background-image: repeating-linear-gradient(30deg, rgb(230, 44, 15) 0px,rgb(230, 44, 15) 100px, #21e60f 100px, #21e60f 200px);
     width: 100%;
     height: 528px;
     padding: 20px;  
