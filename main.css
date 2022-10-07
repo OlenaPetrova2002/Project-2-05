@@ -7,7 +7,7 @@
     background-position: left 10% bottom 20%;
     background-origin: border-box;
     background-clip: border-box;*/
-    background-image: linear-gradient(rgb(224, 94, 116), blue);
+    background-image: linear-gradient(to left bottom,rgb(47, 227, 74), blue);
     width: 100%;
     height: 528px;
     padding: 20px;  
