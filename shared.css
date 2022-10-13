@@ -13,8 +13,8 @@ body {
     top: 0;
     left: 0;
     z-index: 100;
-    width: 40vw;
-    height: 90vh;
+    width: 80vmax;
+    height: 75vh;
     background: rgba(0,0,0,0.5);
 }
 
