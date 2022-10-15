@@ -5,7 +5,7 @@ var selectPlanButtons = document.querySelectorAll('.plan button');
 // console.dir(backdrop);
 for (var i = 0; i < selectPlanButtons.length; i++) {
     selectPlanButtons[i].addEventListener('click', function() {
-    modal.style.display = 'blok';
-    backdrop.style.display = 'blok';
+    modal.style.display = 'block';
+    backdrop.style.display = 'block';
 });
 }
