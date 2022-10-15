@@ -1,3 +1,5 @@
-var backdrop = document.querySelectorAll('.backdrop');
+var backdrop = document.querySelector('.backdrop');
 
-console.dir(backdrop);
+// console.dir(backdrop);
+
+backdrop.style.display = 'block';
