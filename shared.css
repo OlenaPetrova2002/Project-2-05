@@ -63,6 +63,7 @@ body {
     height: 1.5rem;
     /* width: 20px; */
     display: inline-block;
+    vertical-align: middle;
 }
 
 .main-header__brand img {
@@ -148,7 +149,7 @@ body {
 }
 
 .mobile-nav {
-    /*display: none;*/
+    display: none;
     position: fixed;
     z-index: 101;
     top: 0;
