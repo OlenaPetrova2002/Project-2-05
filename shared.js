@@ -1,6 +1,8 @@
 var backdrop = document.querySelector('.backdrop');
 var modal = document.querySelector('.modal');
 var selectPlanButtons = document.querySelectorAll('.plan button');
+var toggleButton = document.querySelector('.toggle-botton');
+var mobileNav = document.querySelector('.mobile-nav'); 
 
 // console.dir(backdrop);
 for (var i = 0; i < selectPlanButtons.length; i++) {
