@@ -30,7 +30,7 @@ for (var i = 0; i < selectPlanButtons.length; i++) {
     backdrop.classList.remove('open');
   }
   
-  toggleButton.addEventListener('click', function() {
+  /*toggleButton.addEventListener('click', function() {
     mobileNav.style.display = 'block';
     backdrop.style.display = 'block';
    });
